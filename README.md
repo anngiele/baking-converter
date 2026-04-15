@@ -13,3 +13,7 @@ A web application that converts baking measurements from cups to grams. Since Th
 >
 >**Reference Table** - Quick lookup for conversion rates
 >
+
+
+# Create requirements.txt
+pip freeze > requirements.txt
